@@ -6,12 +6,11 @@
 <!-- Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=💫+Building+Digital+Experiences;🌟+Frontend+Developer+%7C+React.js+Specialist;✨+Creating+Magic+with+Code" alt="Typing SVG" />
 
-<!-- Meteor Shower Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br>
 
 <!-- Animated Profile Image -->
 <div style="position: relative; display: inline-block;">
-  <img src="https://i.ibb.co/PGH2bj2T/De-Watermark-ai-1761519538072.jpg" width="300" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 0 30px #667eea, 0 0 60px #764ba2, 0 0 90px #f093fb;">
+  <img src="https://i.ibb.co/PGH2bj2T/De-Watermark-ai-1761519538072.jpg" width="300" style="border-radius: 50%; border: 5px solid #667eea;">
 </div>
 
 <br><br>
@@ -23,14 +22,11 @@
 
 <br><br>
 
-<!-- Space Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 </div>
 
 ## 🌌 About Me - Navigating the Digital Cosmos
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 ```javascript
 const celestialDeveloper = {
@@ -50,108 +46,132 @@ const celestialDeveloper = {
 };
 ```
 
-<br clear="right"/>
-
 <div align="center">
 
-<!-- Animated Stars -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 ## 🎯 Current Stellar Missions
 
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
-      <br><b>🔭 Working On</b>
-      <br><b>SkySo Labs</b>
-    </td>
-    <td align="center" width="300">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
-      <br><b>🌱 Learning</b>
-      <br><b>Laravel</b>
-    </td>
-    <td align="center" width="300">
-      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" />
-      <br><b>👯 Collaborating</b>
-      <br><b>Skycelestia</b>
-    </td>
-  </tr>
-</table>
+| 🔭 **Working On** | 🌱 **Learning** | 👯 **Collaborating** |
+|:---:|:---:|:---:|
+| **SkySo Labs** | **Laravel** | **Skycelestia** |
 
-<!-- Cosmic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 ## 🛠️ Tech Constellation
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
 ### ✨ Frontend Galaxy
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,typescript,javascript,html,css,tailwind,materialui,sass&perline=12&theme=dark" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🌠 Backend Universe  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,laravel,php,java,go,ruby,cpp,c&perline=12&theme=dark" />
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🗄️ Database & Cloud Nebula
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,aws,gcp,azure,docker,kubernetes,nginx,heroku&perline=12&theme=dark" />
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 🎨 Design Cosmos
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,blender,unity,threejs,d3&perline=12&theme=dark" />
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### 🔧 Development Toolkit
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,babel,gulp,cypress,jest,linux&perline=12&theme=dark" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Animated Tech Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 ## 📊 Cosmic Analytics Dashboard
 
-<!-- GitHub Stats Cards with Animations -->
 <details open>
 <summary><b>🌟 Performance Metrics</b></summary>
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashksankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff&ring_color=667eea" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashksankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashksankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff&ring_color=667eea" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashksankar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
+</p>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashksankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=667eea&sideLabels=ffffff" />
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashksankar&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=667eea&sideLabels=ffffff" />
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashksankar&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=667eea" />
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashksankar&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=667eea" />
+</p>
 
 </details>
 
-<!-- Achievement Showcase -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=akashksankar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers" />
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=akashksankar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
 
-<!-- Animated Border -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 ## 🌐 Connect Across the Digital Universe
 
-<a href="https://twitter.com/aakash_k_shankar">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=667eea" />
-</a>
-<a href="https://fb.com/aakash k shankar">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=764ba2" />
-</a>
-<a href="https://www.youtube.com/c/art of akash">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=f093fb" />
-</a>
-<a href="https://codesandbox.com/akashksankar">
-  <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=4facfe" />
-</a>
-<a href="mailto:skygfxlord@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00f2fe" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/aakash_k_shankar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://fb.com/aakash k shankar">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/art of akash">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://codesandbox.com/akashksankar">
+    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  </a>
+  <a href="mailto:skygfxlord@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<!-- Social Activity -->
-<a href="https://twitter.com/aakash_k_shankar">
-  <img src="https://img.shields.io/twitter/follow/aakash_k_shankar?style=social&logo=twitter" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/aakash_k_shankar">
+    <img src="https://img.shields.io/twitter/follow/aakash_k_shankar?style=social&logo=twitter" alt="Twitter Follow" />
+  </a>
+  <img src="https://img.shields.io/github/followers/akashksankar?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 ## 🐍 Contribution Constellation
 
@@ -161,38 +181,33 @@ const celestialDeveloper = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashksankar/akashksankar/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<p align="center"><i>Note: Generate snake animation by setting up the GitHub Action in your profile repo</i></p>
 
-## 🌠 Inspirational Nebula
+---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" />
-</div>
+## 🌠 Daily Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 <br>
 
-<!-- Random Dev Quote -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💭+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;💭+%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;💭+%22Code+is+poetry+written+in+logic.%22;💭+%22The+best+error+message+is+the+one+that+never+shows+up.%22" alt="Dev Quotes" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<!-- Footer with Meteor Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=200&section=footer&text=Thanks%20for%20Visiting%20My%20Universe!%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-
-<!-- Profile Views Counter with Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashksankar&label=Cosmic%20Visitors&color=blueviolet&style=for-the-badge&logo=star" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/akashksankar?label=Followers&style=for-the-badge&color=667eea&labelColor=764ba2" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💭+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;💭+%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;💭+%22Code+is+poetry+written+in+logic.%22;💭+%22The+best+error+message+is+the+one+that+never+shows+up.%22" alt="Dev Quotes" />
 </p>
 
-<!-- Animated Footer Text -->
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=200&section=footer&text=Thanks%20for%20Visiting%20My%20Universe!%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashksankar&label=Cosmic%20Visitors&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/akashksankar?label=Followers&style=for-the-badge&color=667eea" alt="Followers" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=⭐+Made+with+❤️+and+lots+of+☕;✨+Always+learning%2C+always+growing;🚀+Let's+build+something+amazing+together!;🌟+Open+to+collaborations+and+opportunities" alt="Footer Typing" />
 </p>
-
-<!-- Shooting Star Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
 
 </div>
