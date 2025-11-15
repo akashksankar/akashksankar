@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<img src="https://i.ibb.co/zhpxFvxn/GIF-20251115-174034-467.gif" />
+<img align="right" alt="Cyber GIF" width="400" src="https://i.ibb.co/zhpxFvxn/GIF-20251115-174034-467.gif">
   
 # 🌟 Welcome to My CodeSpace 🌟
 
