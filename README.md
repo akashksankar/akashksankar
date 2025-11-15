@@ -1,5 +1,7 @@
 <div align="center">
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+<img src="https://i.ibb.co/zhpxFvxn/GIF-20251115-174034-467.gif" />
   
 # 🌟 Welcome to My CodeSpace 🌟
 
@@ -39,7 +41,7 @@ const akash = {
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<img src="https://i.ibb.co/zhpxFvxn/GIF-20251115-174034-467.gif" width="100%" />
+
 ## 🎯 Current Focus
 
 </div>
