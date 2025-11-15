@@ -48,6 +48,9 @@ const akash = {
 <table align="center">
   <tr>
     <td align="center">🔭 Working On</td>
+    
+    ![GIF_20251115_174034_467](https://github.com/user-attachments/assets/f2fc09db-440f-488a-8303-27f955b18bce)
+
     <td align="center">🌱 Learning</td>
     <td align="center">👯 Collaborating</td>
   </tr>
