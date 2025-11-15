@@ -39,6 +39,7 @@ const akash = {
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zhpxFvxn/GIF-20251115-174034-467.gif" alt="GIF-20251115-174034-467" border="0"></a>
 
 ## 🎯 Current Focus
 
