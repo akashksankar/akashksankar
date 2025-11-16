@@ -322,43 +322,6 @@ console.log(`${akash.role} ready to innovate!`);
 
 
 
-## 💡 Fun Facts & Interests
-
-<div align="center">
-
-```typescript
-interface Developer {
-    name: string;
-    interests: string[];
-    currentlyLearning: string[];
-    goals2024: string[];
-}
-
-const akashProfile: Developer = {
-    name: "Akash Sankar",
-    interests: [
-        "🎮 Gaming & Game Development",
-        "🎨 UI/UX Design",
-        "📚 Reading Tech Blogs",
-        "🏃 Fitness & Running",
-        "🎵 Music Production"
-    ],
-    currentlyLearning: [
-        "Advanced System Design",
-        "Cloud Native Architecture",
-        "AI/ML Integration",
-        "Web3 Technologies"
-    ],
-    goals2024: [
-        "Contribute to 100+ Open Source Projects",
-        "Build 10 Production-Ready Apps",
-        "Mentor 50+ Developers",
-        "Write 30 Technical Articles"
-    ]
-};
-```
-
-</div>
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -421,7 +384,6 @@ const akashProfile: Developer = {
 <br><br>
 
 <!-- Footer Animation -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ---
 
