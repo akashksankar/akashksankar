@@ -21,6 +21,23 @@
 <!-- Animated Badges -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=🚀+Full+Stack+Developer+|+UI%2FUX+Enthusiast;💼+Currently+crafting+digital+magic+at+SkySo+Labs)](https://git.io/typing-svg)
 
+<table>
+  <tr>
+    <td width="150">
+      <img src="assets/Picsart_25-11-16_21-17-46-047.png" width="140px" />
+    </td>
+    <td>
+      <div align="left">
+
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF66AA&width=600&lines=DDoS+(Direct+Dose+of+Sweetness)+Attacker;Overwhelms+you+with+attention+until+you+crash…+into+their+arms." />
+
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 </div>
 
 <!-- Glowing Divider -->
