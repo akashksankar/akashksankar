@@ -30,12 +30,12 @@
       <div align="left">
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177DCFF&center=false&vCenter=true&width=800&lines=ROOT+ACCESS+DEITY;Kabhi+kabhi+kuch+jeetne+ke+liye%E2%80%A6;kuch+bug+fix+karne+padte+hain..+%F0%9F%92%8B;RANK+1+SUPREME."
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177DCFF&center=false&vCenter=true&width=800&lines=ROOT+ACCESS+DEITY;+%F0%9F%92%8B;RANK+1+SUPREME."
   alt="Typing SVG" 
 />
 
-      </div>
-    </td>
+     
+    Kabhi kabhi kuch jeetne ke liye kuch bug fix karne padte hain.
   </tr>
 </table>
 
