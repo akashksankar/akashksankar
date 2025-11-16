@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="150">
-      <img src="assets/Picsart_25-11-16_21-17-46-047.png" width="140px" />
+      <img src="assets/Picsart_25-11-16_21-17-46-047.png" width="150px" />
     </td>
     <td>
       <div align="left">
