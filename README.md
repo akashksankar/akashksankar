@@ -35,8 +35,6 @@
   alt="Typing SVG" 
 />
 
-      </div>
-    </td>
   </tr>
 </table>
 
