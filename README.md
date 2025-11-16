@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/PGH2bj2T/De-Watermark-ai-1761519538072.jpg">
+<img align="right" alt="Coding" width="400" src="i.ibb.co/kV5tgLmf/De-Watermark-ai-1761519538072.png">
 
 ## 💫 About Me
 
