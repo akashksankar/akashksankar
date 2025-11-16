@@ -31,7 +31,7 @@
       <div align="left">
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177DCFF&center=false&vCenter=true&width=800&lines=DDoS+(Direct+Dose+of+Sweetness)+Attacker;RANK+-+1+Your+firewallcan’t+stop+this+amount+of+sweetness.+%F0%9F%92%8B;Sweet%2C+dangerous%2C+and+totally+addictive."
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177DCFF&center=false&vCenter=true&width=800&lines=DDoS+(Direct+Dose+of+Sweetness)+Attacker;Your+firewallcan’t+stop+this+amount+of+sweetness.+%F0%9F%92%8B;RANK+1+ELITE."
   alt="Typing SVG" 
 />
 
