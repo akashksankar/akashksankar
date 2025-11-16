@@ -108,7 +108,10 @@ console.log(`${akash.role} ready to innovate!`);
 
 <!-- Glowing Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-assets/GITHUBMEME111.png
+<div align="center">
+<img align="center" alt="Coding" width="400" src="assets/assets/GITHUBMEME111.png">
+<br><br>
+
 ## 🎯 Current Focus
 
 <div align="center">
