@@ -20,96 +20,11 @@
 
 <!-- Animated Badges -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=🚀+Full+Stack+Developer+|+UI%2FUX+Enthusiast;💼+Currently+crafting+digital+magic+at+SkySo+Labs)](https://git.io/typing-svg)
-
-# GitHub README.md - Animated DDoS Rank Badge
-
-## Markdown Code for README.md
-
-```markdown
-<div align="center">
-  
-  <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="180"/>
-  
-  <h2>🎯 DDoS (Direct Dose of Sweetness) Attacker</h2>
-  
-  <p><em>Overwhelms you with attention until you crash… into their arms.</em></p>
-  
 </div>
-```
 
----
+| <img src="assets/Picsart_25-11-16_21-17-46-047.png" width="140" style="display: block; margin: 0 auto;" /> | <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF66AA&width=600&lines=DDoS+(Direct+Dose+of+Sweetness)+Attacker;Overwhelms+you+with+attention+until+you+crash…+into+their+arms." /> |
+| :--: | :-- |
 
-## With More Styling (Using HTML in Markdown)
-
-```markdown
-<div align="center">
-  <table>
-    <tr>
-      <td width="200">
-        <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="180"/>
-      </td>
-      <td>
-        <h2>🎯 DDoS (Direct Dose of Sweetness) Attacker</h2>
-        <p><em>Overwhelms you with attention until you crash… into their arms.</em></p>
-      </td>
-    </tr>
-  </table>
-</div>
-```
-
----
-
-## Side-by-Side Layout Version
-
-```markdown
-<table>
-  <tr>
-    <td width="200" align="center">
-      <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="180"/>
-    </td>
-    <td valign="middle">
-      <h2>🎯 DDoS (Direct Dose of Sweetness) Attacker</h2>
-      <p><em>Overwhelms you with attention until you crash… into their arms.</em></p>
-    </td>
-  </tr>
-</table>
-```
-
----
-
-## Fancy Badge Style
-
-```markdown
-<div align="center">
-  
-  <table>
-    <tr>
-      <td>
-        <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="150"/>
-      </td>
-      <td>
-        <h1>🎯 DDoS (Direct Dose of Sweetness) Attacker</h1>
-        <blockquote>
-          <p><strong>Overwhelms you with attention until you crash… into their arms.</strong></p>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-```
-
----
-
-## Usage Instructions
-
-1. Copy any of the markdown code blocks above
-2. Paste it into your `README.md` file
-3. Make sure your image is in the correct path: `assets/Picsart_25-11-16_21-17-46-047.png`
-4. Commit and push to GitHub
-
-**Note:** GitHub's markdown renderer doesn't support CSS animations, so these layouts use HTML tables for positioning. Choose the version that best fits your README style!
-</div>
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
