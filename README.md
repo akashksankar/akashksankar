@@ -13,7 +13,7 @@
 </div>
 <div align="center">
 <img align="center" alt="Coding" width="400" src="assets/DeWatermark.ai_1761519538072-modified.png">
-<img align="right" alt="Coding" width="400" src="assets/GIF_20251115_174034_467 (1).gif">
+
   
 </div>
 ## 💫 About Me
