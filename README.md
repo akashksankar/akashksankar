@@ -21,96 +21,94 @@
 <!-- Animated Badges -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=🚀+Full+Stack+Developer+|+UI%2FUX+Enthusiast;💼+Currently+crafting+digital+magic+at+SkySo+Labs)](https://git.io/typing-svg)
 
-import React from 'react';
+# GitHub README.md - Animated DDoS Rank Badge
 
-const DDoSRankBadge = () => {
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900 flex items-center justify-center p-8">
-      <div className="max-w-4xl w-full bg-gray-800/50 backdrop-blur-sm rounded-2xl p-8 border border-purple-500/30 shadow-2xl">
-        <div className="flex items-center gap-8">
-          {/* Left: Badge Image */}
-          <div className="flex-shrink-0">
-            <img 
-              src="assets/Picsart_25-11-16_21-17-46-047.png" 
-              alt="DDoS Rank Badge" 
-              className="w-48 h-48 object-contain animate-pulse"
-            />
-          </div>
-          
-          {/* Right: Text Content */}
-          <div className="flex-1">
-            <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500 bg-clip-text text-transparent animate-gradient">
-              DDoS (Direct Dose of Sweetness) Attacker
-            </h1>
-            <p className="text-xl text-gray-300 leading-relaxed animate-fade-in">
-              Overwhelms you with attention until you crash… into their arms.
-            </p>
-          </div>
-        </div>
-        
-        {/* README Code Section */}
-        <div className="mt-8 bg-gray-900 rounded-lg p-6 border border-gray-700">
-          <div className="flex items-center justify-between mb-4">
-            <span className="text-sm text-gray-400 font-mono">README.md</span>
-            <button 
-              onClick={() => {
-                const code = document.getElementById('readme-code').innerText;
-                navigator.clipboard.writeText(code);
-              }}
-              className="px-3 py-1 bg-purple-600 hover:bg-purple-700 text-white text-sm rounded transition-colors"
-            >
-              Copy
-            </button>
-          </div>
-          <pre id="readme-code" className="text-sm text-gray-300 overflow-x-auto">
-{`<div align="center">
-  <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="200"/>
-  
-  ### 🎯 DDoS (Direct Dose of Sweetness) Attacker
-  
-  *Overwhelms you with attention until you crash… into their arms.*
-  
-</div>`}
-          </pre>
-        </div>
-      </div>
-      
-      <style jsx>{`
-        @keyframes gradient {
-          0%, 100% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-        }
-        
-        .animate-gradient {
-          background-size: 200% 200%;
-          animation: gradient 3s ease infinite;
-        }
-        
-        @keyframes fadeIn {
-          from {
-            opacity: 0;
-            transform: translateY(10px);
-          }
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
-        }
-        
-        .animate-fade-in {
-          animation: fadeIn 1s ease-out;
-        }
-      `}</style>
-    </div>
-  );
-};
+## Markdown Code for README.md
 
-export default DDoSRankBadge;
+```markdown
+<div align="center">
+  
+  <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="180"/>
+  
+  <h2>🎯 DDoS (Direct Dose of Sweetness) Attacker</h2>
+  
+  <p><em>Overwhelms you with attention until you crash… into their arms.</em></p>
+  
+</div>
+```
 
+---
+
+## With More Styling (Using HTML in Markdown)
+
+```markdown
+<div align="center">
+  <table>
+    <tr>
+      <td width="200">
+        <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="180"/>
+      </td>
+      <td>
+        <h2>🎯 DDoS (Direct Dose of Sweetness) Attacker</h2>
+        <p><em>Overwhelms you with attention until you crash… into their arms.</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+```
+
+---
+
+## Side-by-Side Layout Version
+
+```markdown
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="180"/>
+    </td>
+    <td valign="middle">
+      <h2>🎯 DDoS (Direct Dose of Sweetness) Attacker</h2>
+      <p><em>Overwhelms you with attention until you crash… into their arms.</em></p>
+    </td>
+  </tr>
+</table>
+```
+
+---
+
+## Fancy Badge Style
+
+```markdown
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img src="assets/Picsart_25-11-16_21-17-46-047.png" alt="DDoS Rank Badge" width="150"/>
+      </td>
+      <td>
+        <h1>🎯 DDoS (Direct Dose of Sweetness) Attacker</h1>
+        <blockquote>
+          <p><strong>Overwhelms you with attention until you crash… into their arms.</strong></p>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+```
+
+---
+
+## Usage Instructions
+
+1. Copy any of the markdown code blocks above
+2. Paste it into your `README.md` file
+3. Make sure your image is in the correct path: `assets/Picsart_25-11-16_21-17-46-047.png`
+4. Commit and push to GitHub
+
+**Note:** GitHub's markdown renderer doesn't support CSS animations, so these layouts use HTML tables for positioning. Choose the version that best fits your README style!
 </div>
 
 <!-- Glowing Divider -->
