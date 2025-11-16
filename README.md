@@ -22,8 +22,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=🚀+Full+Stack+Developer+|+UI%2FUX+Enthusiast;💼+Currently+crafting+digital+magic+at+SkySo+Labs)](https://git.io/typing-svg)
 </div>
 
-| <img src="assets/Picsart_25-11-16_21-17-46-047.png" width="140" style="display: block; margin: 0 auto;" /> | <img src="https://camo.githubusercontent.com/2ddc39fe863b23b6a165c6fb7dfe4d37bb49a41230509bb890905c172ae905dd/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3332266475726174696f6e3d323830302670617573653d3230303026636f6c6f723d41313737444346462663656e7465723d74727565267643656e7465723d747275652677696474683d393430266c696e65733d48692b2546302539462539312538422532432b49276d2b416b6173682b53616e6b61723b52656163742b446576656c6f7065722b2532362b5765622b4372616674736d616e2b2546302539462539412538303b4275696c64696e672b42656175746966756c2b4469676974616c2b457870657269656e6365732b2546302539462539322542423b4c657427732b4372656174652b536f6d657468696e672b416d617a696e67213b436f64652b2537432b44657369676e2b2537432b496e6e6f766174696f6e2b2546302539462539322541313b5475726e696e672b49646561732b496e746f2b5265616c6974792b254532253943254138" /> |
-| :--: | :-- |
+<table>
+  <tr>
+    <td width="150">
+      <img src="assets/Picsart_25-11-16_21-17-46-047.png" width="140px" />
+    </td>
+    <td>
+      <div align="left">
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177DCFF&center=false&vCenter=true&width=800&lines=DDoS+(Direct+Dose+of+Sweetness)+Attacker;Overwhelming+you+with+affection;Until+you+crash+into+their+arms+%F0%9F%92%8B;Sweet%2C+dangerous%2C+and+totally+addictive."
+  alt="Typing SVG" 
+/>
+
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- Glowing Divider -->
