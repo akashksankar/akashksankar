@@ -9,8 +9,7 @@
 <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DCFF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Sankar;React+Developer+%26+Web+Craftsman+%F0%9F%9A%80;Building+Beautiful+Digital+Experiences+%F0%9F%92%BB;Let's+Create+Something+Amazing!;Code+%7C+Design+%7C+Innovation+%F0%9F%92%A1;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
-<!-- Animated Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=fadeIn" />
+
 
 </div>
 
@@ -103,8 +102,7 @@ console.log(`${akash.role} ready to innovate!`);
 
 </div>
 
-<!-- Animated Wave Separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=120&section=header&reversal=true" />
+
 
 ## 🛠️ Tech Arsenal
 
@@ -203,29 +201,36 @@ console.log(`${akash.role} ready to innovate!`);
 
 <br>
 
-<!-- Additional Metrics -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akashksankar&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177DC&text_color=FFFFFF&layout=compact" />
+<!-- Additional Metrics Visible -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=akashksankar&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177DC&text_color=FFFFFF&layout=compact" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashksankar&theme=radical" />
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashksankar&bg_color=0D1117&color=A177DC&line=58A6FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-<!-- Detailed Stats -->
-<details>
-<summary>📈 More Stats</summary>
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashksankar&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashksankar&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashksankar&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashksankar&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashksankar&theme=radical)
+<!-- Profile Summary Cards -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashksankar&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashksankar&theme=radical" />
 
-</details>
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashksankar&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashksankar&theme=radical" />
+
+<br>
+
+<!-- Additional Contribution Metrics -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashksankar&bg_color=0D1117&color=A177DC&line=58A6FF&point=FF6B6B&area=true&hide_border=true&custom_title=📊%20Detailed%20Contribution%20Graph" />
+
+<br>
+
+<!-- GitHub Metrics -->
+<img src="https://metrics.lecoq.io/akashksankar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&followup=1&languages=1&lines=1&repositories=1&code=1&achievements=1&notable=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions=false&discussions.categories=true&discussions.categories.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKolkata" />
+
+<br>
 
 </div>
 
-<!-- Wave Separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
+
 
 ## 🎨 Contribution Graph
 
@@ -315,8 +320,7 @@ console.log(`${akash.role} ready to innovate!`);
 
 </div>
 
-<!-- Wave Separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,16,12&height=120&section=header&reversal=true" />
+
 
 ## 💡 Fun Facts & Interests
 
