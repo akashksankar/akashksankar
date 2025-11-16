@@ -63,7 +63,6 @@ console.log(`${akash.role} ready to innovate!`);
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
 
 <!-- Dynamic Activity Indicators -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
 
