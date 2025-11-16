@@ -34,8 +34,6 @@
   alt="Typing SVG" 
 />
 
-     
-    Kabhi kabhi kuch jeetne ke liye kuch bug fix karne padte hain.
   </tr>
 </table>
 
