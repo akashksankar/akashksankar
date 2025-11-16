@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="assets/DeWatermark.ai_1761519538072.png">
+<img align="right" alt="Coding" width="400" src="assets/DeWatermark.ai_1761519538072-modified.png">
 
 ## 💫 About Me
 
