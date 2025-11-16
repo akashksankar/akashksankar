@@ -21,6 +21,21 @@
 <!-- Animated Badges -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=🚀+Full+Stack+Developer+|+UI%2FUX+Enthusiast;💼+Currently+crafting+digital+magic+at+SkySo+Labs)](https://git.io/typing-svg)
 </div>
+<table>
+  <tr>
+    <td width="150">
+      <img src="assets/Picsart_25-11-16_21-08-55-137.png" width="150px" />
+    </td>
+    <td>
+      <div align="left">
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177DCFF&center=false&vCenter=true&width=800&lines=ROOT+ACCESS+DEITY;Kabhi+kabhi+kuch+jeetne+ke+liye…;+kuch+bug+fix +karne+padte+hain..+%F0%9F%92%8B;RANK+1+SUPREME."
+  alt="Typing SVG" 
+/>
+
+  </tr>
+</table>
 
 <table>
   <tr>
