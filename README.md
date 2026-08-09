@@ -15,7 +15,7 @@
 
 <!-- Profile Image with Border Animation -->
 <div align="center">
-<img align="center" alt="Coding" width="400" src="assets/DeWatermark.ai_1761519538072-modified.png">
+<img align="center" alt="Coding" width="400" src="https://i.ibb.co/0R9B2t9g/photo-2026-08-09-11-01-13.jpg">
 <br><br>
 
 <!-- Animated Badges -->
